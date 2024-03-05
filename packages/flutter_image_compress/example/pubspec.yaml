@@ -14,9 +14,7 @@ dependencies:
   flutter_image_compress:
     path: ../
   flutter_image_compress_web:
-    git:
-      url: https://github.com/datpt11/flutter_image_compress.git
-      path: packages/flutter_image_compress_web
+    path: ../../flutter_image_compress_web
   path_provider: ^2.0.0
 
 flutter:

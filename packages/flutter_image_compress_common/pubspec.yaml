@@ -11,9 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_image_compress_platform_interface:
-    git:
-      url: https://github.com/datpt11/flutter_image_compress.git
-      path: packages/flutter_image_compress_platform_interface
+    path: ../flutter_image_compress_platform_interface
 
 flutter:
   plugin:
